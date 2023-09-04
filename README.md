@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quiry-AAK
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity 2D
+- 🌱 I’m currently learning Unity
 - 📫 You can reach me via my e-mail : kinaliahmetali@gmail.com
 
 <!---
